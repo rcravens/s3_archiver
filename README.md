@@ -20,3 +20,8 @@ To run the application:
 
 - `python app.py <directory to archive>`
 
+## Mac Automator
+
+Configure a "quick action" in macos so you can right-click a directory and archive:
+
+![Configure Automator](macos_automator.png)
